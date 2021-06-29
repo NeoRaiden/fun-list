@@ -7,54 +7,6 @@
 		"defname": "porg_hide"
 	},
 	{
-		"abr": "(old)ceilinglamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "CeilingLamp"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Red"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Blue"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Green"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Violet"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Yellow"
-	},
-	{
-		"abr": "(old)ceilinglamp",
-		"price": 49,
-		"category": "Furniture",
-		"defname": "CeilingLamp_Orange"
-	},
-	{
-		"abr": "(old)walllamp",
-		"price": 45,
-		"category": "Furniture",
-		"defname": "WallLamp"
-	},
-	{
 		"abr": "3poprotocolassemblykit",
 		"price": 5000,
 		"category": "Assembly kits",
@@ -107,12 +59,6 @@
 		"price": 3000,
 		"category": "Animal",
 		"defname": "Acklay"
-	},
-	{
-		"abr": "acklayegg(fert.)",
-		"price": 133,
-		"category": "Eggs (fert.)",
-		"defname": "EggAcklayFertilized"
 	},
 	{
 		"abr": "acklayhide",
