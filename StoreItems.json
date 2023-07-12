@@ -1,4 +1,4 @@
-
+{
 	"items" : [
 	{
 		"abr": "(old)ceilinglamp",
@@ -24119,7 +24119,7 @@
 		"price": 1317,
 		"category": "Kleidung",
 		"defname": "guy762_CharacterApparel_VisasHood"
-	},
+	}
 	],
 	"total": 4021
-
+}
